@@ -8,5 +8,9 @@ namespace ConsoleApp2
 {
     class NewClass
     {
+        void Empty()
+        {
+
+        }
     }
 }
