@@ -8,6 +8,6 @@ namespace ConsoleApp2
 {
     class NewClass
     {
-        Console.Writeline("Aveee");
+       
     }
 }
